@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "brf",
+    "code": "brf",
+    "name": "BRF Mediathek",
+    "number": 2001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/brf.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/brf.png",
+    "country": "be"
+  },
+  {
+    "id": "rtlplay",
+    "code": "rtlplaybe",
+    "name": "RTLplay",
+    "number": 2002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/rtlplay.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/rtlplay_fanart.jpg",
+    "country": "be"
+  },
+  {
+    "id": "vrt",
+    "code": "vrt",
+    "name": "VRT NU",
+    "number": 2003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/vrt.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/vrt.png",
+    "country": "be"
+  },
+  {
+    "id": "telemb",
+    "code": "telemb",
+    "name": "Télé MB",
+    "number": 2004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/telemb.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/telemb.png",
+    "country": "be"
+  },
+  {
+    "id": "rtc",
+    "code": "rtc",
+    "name": "RTC Télé Liège",
+    "number": 2005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/rtc.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/rtc.png",
+    "country": "be"
+  },
+  {
+    "id": "auvio",
+    "code": "rtbf",
+    "name": "RTBF Auvio",
+    "number": 2006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/auvio.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/auvio_fanart.jpg",
+    "country": "be"
+  },
+  {
+    "id": "tvlux",
+    "code": "tvlux",
+    "name": "TV Lux",
+    "number": 2007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/tvlux.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/tvlux.png",
+    "country": "be"
+  },
+  {
+    "id": "bx1",
+    "code": "bx1",
+    "name": "BX1",
+    "number": 2008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/bx1.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/bx1.png",
+    "country": "be"
+  },
+  {
+    "id": "tvcom",
+    "code": "tvcom",
+    "name": "TV Com",
+    "number": 2009,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/tvcom.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/tvcom.png",
+    "country": "be"
+  },
+  {
+    "id": "bouke",
+    "code": "bouke",
+    "name": "Bouké",
+    "number": 2010,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/bouke.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/bouke.png",
+    "country": "be"
+  },
+  {
+    "id": "robtv",
+    "code": "robtv",
+    "name": "ROB-tv (Oost-Brabant)",
+    "number": 2011,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/robtv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/robtv.png",
+    "country": "be"
+  },
+  {
+    "id": "ln24",
+    "code": "ln24",
+    "name": "LN24",
+    "number": 2012,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/ln24.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/ln24.png",
+    "country": "be"
+  },
+  {
+    "id": "telesambre",
+    "code": "telesambre",
+    "name": "Télésambre",
+    "number": 2013,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/be/telesambre.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/be/telesambre.png",
+    "country": "be"
+  },
+  {
+    "id": "tv5unis",
+    "code": "tv5unis",
+    "name": "TV5 Unis",
+    "number": 3001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/tv5unis.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/tv5unis.png",
+    "country": "ca"
+  },
+  {
+    "id": "telequebec",
+    "code": "telequebec",
+    "name": "Télé-Québec",
+    "number": 3002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/telequebec.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/telequebec.png",
+    "country": "be"
+  },
+  {
+    "id": "tva",
+    "code": "tva",
+    "name": "TVA",
+    "number": 3003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/tva.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/tva.png",
+    "country": "ca"
+  },
+  {
+    "id": "icitele",
+    "code": "icitele",
+    "name": "ICI Télé",
+    "number": 3004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/icitele.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/icitele.png",
+    "country": "ca"
+  },
+  {
+    "id": "icitele",
+    "code": "icitele",
+    "name": "ICI Télé",
+    "number": 3004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/icitele.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/icitele.png",
+    "country": "ca"
+  },
+  {
+    "id": "icitoutv",
+    "code": "icitoutv",
+    "name": "ICI Tou.tv",
+    "number": 3005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/icitoutv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/icitoutv.png",
+    "country": "ca"
+  },
+  {
+    "id": "telemag",
+    "code": "telemag",
+    "name": "Télé-Mag",
+    "number": 3006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/telemag.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/telemag.png",
+    "country": "ca"
+  },
+  {
+    "id": "noovo",
+    "code": "noovo",
+    "name": "NOOVO",
+    "number": 3007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ca/noovo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ca/noovo.png",
+    "country": "ca"
+  },
+  {
+    "id": "rts",
+    "code": "srgssr",
+    "name": "RTS",
+    "number": 4001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/rts.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/rts.png",
+    "country": "ch"
+  },
+  {
+    "id": "rsi",
+    "code": "srgssr",
+    "name": "RSI",
+    "number": 4002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/rsi.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/rsi.png",
+    "country": "ch"
+  },
+  {
+    "id": "srf",
+    "code": "srgssr",
+    "name": "SRF",
+    "number": 4003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/srf.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/srf.png",
+    "country": "ch"
+  },
+  {
+    "id": "rtr",
+    "code": "srgssr",
+    "name": "RTR",
+    "number": 4004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/rtr.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/rtr.png",
+    "country": "ch"
+  },
+  {
+    "id": "swissinfo",
+    "code": "srgssr",
+    "name": "SWISSINFO",
+    "number": 4005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/swissinfo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/swissinfo.png",
+    "country": "ch"
+  },
+  {
+    "id": "tvm3",
+    "code": "tvm3",
+    "name": "TVM3",
+    "number": 4006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/tvm3.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/tvm3.png",
+    "country": "ch"
+  },
+  {
+    "id": "lemanbleu",
+    "code": "lemanbleu",
+    "name": "Léman Bleu",
+    "number": 4007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/lemanbleu.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/lemanbleu.png",
+    "country": "ch"
+  },
+  {
+    "id": "lfmtv",
+    "code": "lfmtv",
+    "name": "LFM TV",
+    "number": 4008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/ch/lfmtv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/ch/lfmtv.png",
+    "country": "ch"
+  },
+  {
+    "id": "rtve",
+    "code": "rtve",
+    "name": "RTVE Alacarta",
+    "number": 5001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/es/rtve.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/es/rtve.png",
+    "country": "es"
+  },
+  {
+    "id": "6play",
+    "code": "6play",
+    "name": "6play",
+    "number": 1001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/6play.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/6play.png",
+    "country": "fr"
+  },
+  {
+    "id": "francetv",
+    "code": "francetv",
+    "name": "France TV",
+    "number": 1002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/francetv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/francetv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "mycanal",
+    "code": "mycanal",
+    "name": "myCANAL",
+    "number": 1003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/mycanal.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/mycanal_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "mytf1",
+    "code": "mytf1",
+    "name": "MYTF1",
+    "number": 1004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/mytf1.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/mytf1.png",
+    "country": "fr"
+  },
+  {
+    "id": "nrjplay",
+    "code": "nrj",
+    "name": "NRJ Play",
+    "number": 1005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/nrjplay.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/nrjplay.png",
+    "country": "fr"
+  },
+  {
+    "id": "rmcbfmplay",
+    "code": "rmcbfmplay",
+    "name": "RMC BFM Play",
+    "number": 1006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/rmcbfmplay.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/rmcbfmplay_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "cnews",
+    "code": "cnews",
+    "name": "CNews",
+    "number": 1007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/cnews.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/cnews_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "lci",
+    "code": "lci",
+    "name": "LCI",
+    "number": 1008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/lci.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/lci_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "franceinfo",
+    "code": "franceinfo",
+    "name": "France Info",
+    "number": 1009,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/franceinfo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/franceinfo_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "lcp",
+    "code": "lcp",
+    "name": "LCP Assemblée Nationale",
+    "number": 1010,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/lcp.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/lcp_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "publicsenat",
+    "code": "publicsenat",
+    "name": "Public Sénat",
+    "number": 1011,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/publicsenat.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/publicsenat_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "lequipe",
+    "code": "lequipe",
+    "name": "L'Équipe",
+    "number": 1012,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/lequipe.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/lequipe_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "francetvsport",
+    "code": "francetvsport",
+    "name": "France TV Sport",
+    "number": 1013,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/francetvsport.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/francetvsport_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "lumni",
+    "code": "lumni",
+    "name": "Lumni",
+    "number": 1014,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/lumni.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/lumni_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "antennereunion",
+    "code": "antennereunion",
+    "name": "Antenne Réunion",
+    "number": 1016,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/antennereunion.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/antennereunion_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "caledonia",
+    "code": "caledonia",
+    "name": "Caledonia",
+    "number": 1017,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/caledonia.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/caledonia_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tntv",
+    "code": "tntv",
+    "name": "Tahiti Nui Télévision",
+    "number": 1018,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tntv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tntv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tv8montblanc",
+    "code": "tv8montblanc",
+    "name": "8 Mont-Blanc",
+    "number": 1020,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tv8montblanc.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tv8montblanc_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "albitv",
+    "code": "albitv",
+    "name": "Albi TV",
+    "number": 1021,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/albitv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/albitv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "biptv",
+    "code": "biptv",
+    "name": "BipTV",
+    "number": 1022,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/biptv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/biptv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "dicitv",
+    "code": "dicitv",
+    "name": "DiCi TV",
+    "number": 1023,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/dicitv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/dicitv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "mblivetv",
+    "code": "mblivetv",
+    "name": "Mont Blanc Live TV",
+    "number": 1024,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/mblivetv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/mblivetv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tebeo",
+    "code": "tebeo",
+    "name": "Tébéo",
+    "number": 1025,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tebeo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tebeo_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tebesud",
+    "code": "tebeo",
+    "name": "TébéSud",
+    "number": 1026,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tebesud.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tebesud_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "telegrenoble",
+    "code": "telegrenoble",
+    "name": "TéléGrenoble",
+    "number": 1027,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/telegrenoble.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/telegrenoble_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "telenantes",
+    "code": "telenantes",
+    "name": "TeleNantes",
+    "number": 1028,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/telenantes.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/telenantes_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tl7",
+    "code": "tl7",
+    "name": "TL7",
+    "number": 1029,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tl7.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tl7_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tlc",
+    "code": "tlc",
+    "name": "TLC",
+    "number": 1030,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tlc.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tlc_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tv7",
+    "code": "tv7colmar",
+    "name": "TV7 Colmar",
+    "number": 1031,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tv7colmar.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tv7colmar_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tv78",
+    "code": "tv78",
+    "name": "TV78",
+    "number": 1032,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tv8.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tv78_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tvpifr",
+    "code": "tvpifr",
+    "name": "TVPI télévision d'ici",
+    "number": 1033,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tvpifr.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tvpifr_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tvr",
+    "code": "tvr",
+    "name": "TVR",
+    "number": 1034,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tvr.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tvr_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tvt",
+    "code": "tvt",
+    "name": "TVT",
+    "number": 1035,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tvt.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tvt_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "tvvendee",
+    "code": "tvvendee",
+    "name": "TV VENDEE",
+    "number": 1036,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/tvvendee.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/tvvendee_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "weo",
+    "code": "weo",
+    "name": "Wéo",
+    "number": 1037,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/weo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/weo_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "lachainemeteo",
+    "code": "lachainemeteo",
+    "name": "La Chaîne Météo",
+    "number": 1038,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/lachainemeteo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/lachainemeteo_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "equidia",
+    "code": "equidia",
+    "name": "Equidia",
+    "number": 1039,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/equidia.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/equidia_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "bsmart",
+    "code": "bsmart",
+    "name": "B Smart",
+    "number": 1040,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/bsmart.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/bsmart_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "jack",
+    "code": "jack",
+    "name": "Jack (mycanal)",
+    "number": 1041,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/jack.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/jack_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "kto",
+    "code": "kto",
+    "name": "KTO",
+    "number": 1042,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/kto.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/kto_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "luxetv",
+    "code": "luxetv",
+    "name": "Luxe.TV",
+    "number": 1043,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/luxetv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/luxetv_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "gong",
+    "code": "gong",
+    "name": "Gong",
+    "number": 1044,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/gong.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/gong_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "j_one",
+    "code": "j_one",
+    "name": "J-One",
+    "number": 1045,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/fr/jone.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/fr/jone_fanart.jpg",
+    "country": "fr"
+  },
+  {
+    "id": "la7",
+    "code": "la7",
+    "name": "La7",
+    "number": 6001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/it/la7.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/it/la7_fanart.jpg",
+    "country": "it"
+  },
+  {
+    "id": "la7d",
+    "code": "la7",
+    "name": "La7d",
+    "number": 6002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/it/la7d.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/it/la7d_fanart.jpg",
+    "country": "it"
+  },
+  {
+    "id": "raiplay",
+    "code": "raiplay",
+    "name": "Rai Play",
+    "number": 6003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/it/raiplay.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/it/raiplay_fanart.jpg",
+    "country": "it"
+  },
+  {
+    "id": "nhknews",
+    "code": "nhknews",
+    "name": "NHK ニュース",
+    "number": 7001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/nhknews.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/nhknews_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "nhklifestyle",
+    "code": "nhklifestyle",
+    "name": "NHKらいふ",
+    "number": 7002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/nhklifestyle.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/nhklifestyle_fanart.jpg",
+    "country": "jp"
+  },
+  {
+    "id": "tbsnews",
+    "code": "tbsnews",
+    "name": "TBS ニュース",
+    "number": 7003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/tbsnews.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/tbsnews_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "cx",
+    "code": "tver",
+    "name": "TVER: Fuji TV フジテレビ",
+    "number": 7004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/cx.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/cx_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "ex",
+    "code": "tver",
+    "name": "TVER: テレビ朝日",
+    "number": 7005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/ex.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/ex_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "tbs",
+    "code": "tver",
+    "name": "TVER: TBSテレビ",
+    "number": 7006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/tbs.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/tbs_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "tx",
+    "code": "tver",
+    "name": "TVER: テレビ東京",
+    "number": 7007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/tx.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/tx_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "mbs",
+    "code": "tver",
+    "name": "TVER: MBSテレビ",
+    "number": 7008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/mbs.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/mbs_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "abc",
+    "code": "tver",
+    "name": "TVER: 朝日放送株式会社",
+    "number": 7009,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/abc.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/abc_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "ytv",
+    "code": "tver",
+    "name": "TVER: 読売テレビ",
+    "number": 7010,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/ytv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/ytv_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "ntv",
+    "code": "tver",
+    "name": "TVER: 日テレ",
+    "number": 7011,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/ntv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/ntv_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "ktv",
+    "code": "tver",
+    "name": "TVER: 関西テレビ",
+    "number": 7012,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/ktv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/ktv_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "tvo",
+    "code": "tver",
+    "name": "TVER: テレビ大阪株式会社",
+    "number": 7013,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/tvo.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/tvo_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "nhk",
+    "code": "tver",
+    "name": "TVER: NHK",
+    "number": 7014,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/nhk.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/nhk_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "tver",
+    "code": "tver",
+    "name": "TVER",
+    "number": 7015,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/jp/tver.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/jp/tver_fanart.png",
+    "country": "jp"
+  },
+  {
+    "id": "npo-start",
+    "code": "npo",
+    "name": "NPO Start",
+    "number": 8001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/nl/npostart.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/nl/npostart_fanart.jpg",
+    "country": "nl"
+  },
+  {
+    "id": "at5",
+    "code": "at5",
+    "name": "AT5",
+    "number": 8002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/nl/at5.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/nl/at5_fanart.jpg",
+    "country": "nl"
+  },
+  {
+    "id": "tvp-vod",
+    "code": "tvp",
+    "name": "TVP VOD",
+    "number": 9001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/pl/tvpvod.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/pl/tvpvod_fanart.jpg",
+    "country": "pl"
+  },
+  {
+    "id": "play-puls",
+    "code": "playpuls",
+    "name": "Play Puls",
+    "number": 9002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/pl/playpuls.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/pl/playpuls_fanart.jpg",
+    "country": "pl"
+  },
+  {
+    "id": "nessma",
+    "code": "nessma",
+    "name": "نسمة تي في",
+    "number": 10001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/tn/nessma.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/tn/nessma_fanart.jpg",
+    "country": "tn"
+  },
+  {
+    "id": "blaze",
+    "code": "blaze",
+    "name": "Blaze",
+    "number": 11001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/blaze.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/blaze_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "skynews",
+    "code": "sky",
+    "name": "Sky News",
+    "number": 11002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/skynews.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/skynews_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "skysports",
+    "code": "sky",
+    "name": "Sky Sports",
+    "number": 11003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/skysports.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/skysports_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "channel4",
+    "code": "channel4",
+    "name": "Channel 4",
+    "number": 11004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/channel4.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/channel4_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "stv",
+    "code": "stv",
+    "name": "STV",
+    "number": 11005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/stv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/stv_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "uktvplay",
+    "code": "uktvplay",
+    "name": "UKTV Play",
+    "number": 11006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/uktvplay.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/uktvplay_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "my5",
+    "code": "my5",
+    "name": "My 5",
+    "number": 11007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/my5.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/my5_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "uklocaltv",
+    "code": "uklocaltv",
+    "name": "UK Local TV",
+    "number": 11008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/uklocaltv.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/uklocaltv_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "discoveryplus",
+    "code": "discoveryplus",
+    "name": "discovery+",
+    "number": 11009,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/uk/discoveryplus.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/uk/discoveryplus_fanart.jpg",
+    "country": "uk"
+  },
+  {
+    "id": "tbd",
+    "code": "tbd",
+    "name": "TBD",
+    "number": 12001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/us/tbd.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/us/tbd_fanart.jpg",
+    "country": "us"
+  },
+  {
+    "id": "nycmedia",
+    "code": "nycmedia",
+    "name": "NYC Media",
+    "number": 12002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/us/nycmedia.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/us/nycmedia_fanart.jpg",
+    "country": "us"
+  },
+  {
+    "id": "abcnews",
+    "code": "abcnews",
+    "name": "ABC News",
+    "number": 12003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/us/abcnews.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/us/abcnews_fanart.jpg",
+    "country": "us"
+  },
+  {
+    "id": "tv5mondeafrique",
+    "code": "tv5mondeafrique",
+    "name": "TV5Monde Afrique",
+    "number": 13001,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/tv5mondeafrique.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/tv5mondeafrique_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "arte",
+    "code": "arte",
+    "name": "Arte",
+    "number": 13002,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/arte.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/arte_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "france24",
+    "code": "france24",
+    "name": "France 24",
+    "number": 13003,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/france24.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/france24_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "france24",
+    "code": "france24",
+    "name": "France 24",
+    "number": 13004,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/france24.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/france24_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "nhkworld",
+    "code": "nhkworld",
+    "name": "NHK World",
+    "number": 13005,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/nhkworld.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/nhkworld_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "tv5monde",
+    "code": "tv5monde",
+    "name": "TV5Monde",
+    "number": 13006,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/tv5monde.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/tv5monde_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "tivi5monde",
+    "code": "tivi5monde",
+    "name": "Tivi 5Monde",
+    "number": 13007,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/tivi5monde.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/tivi5monde_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "bvn",
+    "code": "bvn",
+    "name": "BVN",
+    "number": 13008,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/bvn.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/bvn_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "arirang",
+    "code": "arirang",
+    "name": "Arirang (아리랑)",
+    "number": 13009,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/arirang.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/arirang_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "beinsports",
+    "code": "beinsports",
+    "name": "Bein Sports",
+    "number": 13010,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/beinsports.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/beinsports_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "afriquemedia",
+    "code": "afriquemedia",
+    "name": "Afrique Media",
+    "number": 13011,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/afriquemedia.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/afriquemedia_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "channelnewsasia",
+    "code": "channelnewsasia",
+    "name": "Channel NewsAsia",
+    "number": 13012,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/channelnewsasia.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/channelnewsasia_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "rt",
+    "code": "rt",
+    "name": "RT",
+    "number": 13013,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/rt.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/rt_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "africa24",
+    "code": "africa24",
+    "name": "Africa 24",
+    "number": 13014,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/africa24.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/africa24_fanart.jpg",
+    "country": "international"
+  },
+  {
+    "id": "tv5mondeplus",
+    "code": "tv5mondeplus",
+    "name": "TV5Monde Plus",
+    "number": 13015,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/tv5mondeplus.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/tv5mondeplus.png",
+    "country": "international"
+  },
+  {
+    "id": "aljazeera",
+    "code": "aljazeera",
+    "name": "Aljazeera",
+    "number": 13016,
+    "logo": "${Constants.Urls.URL_IMAGES}channels/wo/aljazeera.png",
+    "cover": "${Constants.Urls.URL_IMAGES}channels/wo/aljazeera_fanart.png",
+    "country": "international"
+  }
+]

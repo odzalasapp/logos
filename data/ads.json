@@ -1,0 +1,524 @@
+[
+  {
+    "code": "ca-app-pub-5944426280825519/8672325308",
+    "name": "Live_TV_banner1",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/7167671945",
+    "name": "Live_TV_banner2",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/4541508600",
+    "name": "Live_TV_banner3",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5562397494",
+    "name": "Live_TV_banner4",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6349414292",
+    "name": "Live_TV_banner5",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5147697000",
+    "name": "Live_TV_banner6",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/1208451996",
+    "name": "Live_TV_banner7",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/7582288650",
+    "name": "Live_TV_banner8",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/3643043643",
+    "name": "Live_TV_banner9",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/7756359101",
+    "name": "Live_TV_banner10",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/4764553620",
+    "name": "Live_TV_banner11",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/8398329262",
+    "name": "Live_TV_banner12",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/8512226946",
+    "name": "Live_TV_banner13",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/1190950756",
+    "name": "Live_TV_banner14",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/4399374508",
+    "name": "Live_TV_banner15",
+    "type": "Banner",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6976100251",
+    "name": "Live_TV_intertitiel1",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6157842600",
+    "name": "Live_TV_intertitiel2",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/3036855245",
+    "name": "Live_TV_intertitiel3",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/4844760935",
+    "name": "Live_TV_intertitiel4",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5701890496",
+    "name": "Live_TV_intertitiel5",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/2154793386",
+    "name": "Live_TV_intertitiel6",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6077726528",
+    "name": "Live_TV_intertitiel7",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5080339628",
+    "name": "Live_TV_intertitiel8",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/7423416026",
+    "name": "Live_TV_intertitiel9",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6110334351",
+    "name": "Live_TV_intertitiel10",
+    "type": "Interstitiel",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/6784528568",
+    "name": "Live_TV_natif1",
+    "type": "NatifAvance",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5471446896",
+    "name": "Live_TV_natif2",
+    "type": "NatifAvance",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/3340107574",
+    "name": "Live_TV_natif3",
+    "type": "NatifAvance",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/9713944230",
+    "name": "Live_TV_natif4",
+    "type": "NatifAvance",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/8400862562",
+    "name": "Live_TV_natif5",
+    "type": "NatifAvance",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5843220207",
+    "name": "Live_TV_VidRecompense1",
+    "type": "Recompense",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/8664824664",
+    "name": "Live_TV_VidRecompense2",
+    "type": "Recompense",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/7351742990",
+    "name": "Live_TV_VidRecompense3",
+    "type": "Recompense",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/2887267266",
+    "name": "Live_TV_VidRecompense4",
+    "type": "Recompense",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/1903975198",
+    "name": "Live_TV_VidRecompense5",
+    "type": "Recompense",
+    "source": "Google"
+  },
+  {
+    "code": "ca-app-pub-5944426280825519/5703347739",
+    "name": "Live_TV_AO1",
+    "type": "AOP",
+    "source": "Google"
+  },
+  {
+    "code": "709556069731395_741860726500929",
+    "name": "LIVE_TV_FB_BAN_1",
+    "type": "Banner",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860796500922",
+    "name": "LIVE_TV_FB_BAN_2",
+    "type": "Banner",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741864719833863",
+    "name": "LIVE_TV_FB_BAN_3",
+    "type": "Banner",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860859834249",
+    "name": "LIVE_TV_FB_BAN_4",
+    "type": "Banner",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860939834241",
+    "name": "LIVE_TV_FB_BAN_5",
+    "type": "Banner",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860003167668",
+    "name": "LIVE_TV_FB_INT_1",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860123167656",
+    "name": "LIVE_TV_FB_INT_2",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860269834308",
+    "name": "LIVE_TV_FB_INT_3",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860436500958",
+    "name": "LIVE_TV_FB_INT_4",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741860569834278",
+    "name": "LIVE_TV_FB_INT_5",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741877469832588",
+    "name": "LIVE_TV_FB_INT_6",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741877639832571",
+    "name": "LIVE_TV_FB_INT_7",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741877863165882",
+    "name": "LIVE_TV_FB_INT_8",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741877963165872",
+    "name": "LIVE_TV_FB_INT_9",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_741878053165863",
+    "name": "LIVE_TV_FB_INT_10",
+    "type": "Interstitiel",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860094400992",
+    "name": "LIVE_TV_FB_NAT1",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860271067641",
+    "name": "LIVE_TV_FB_NAT2",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860364400965",
+    "name": "LIVE_TV_FB_NAT3",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860481067620",
+    "name": "LIVE_TV_FB_NAT4",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860574400944",
+    "name": "LIVE_TV_FB_NAT5",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860671067601",
+    "name": "LIVE_TV_FB_NAT6",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860777734257",
+    "name": "LIVE_TV_FB_NAT7",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762860881067580",
+    "name": "LIVE_TV_FB_NAT8",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762861031067565",
+    "name": "LIVE_TV_FB_NAT9",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_762861124400889",
+    "name": "LIVE_TV_FB_NAT10",
+    "type": "NatifAvance",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_781752082511793",
+    "name": "LIVE_TV_FB_RECT1",
+    "type": "InterstitielRecompense",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_781752262511775",
+    "name": "LIVE_TV_FB_RECT2",
+    "type": "InterstitielRecompense",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_781752345845100",
+    "name": "LIVE_TV_FB_RECT3",
+    "type": "InterstitielRecompense",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_781752485845086",
+    "name": "LIVE_TV_FB_RECT4",
+    "type": "REC",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_781752582511743",
+    "name": "LIVE_TV_FB_RECT5",
+    "type": "REC",
+    "source": "Facebook"
+  },
+  {
+    "code": "709556069731395_709556629731339",
+    "name": "LIVE_TV_FB_VID_RECOMPENSE1",
+    "type": "Recompense",
+    "source": "Facebook"
+  },
+  {
+    "code": "TV_MREC1-9668063",
+    "name": "TV_MREC1",
+    "type": "REC",
+    "source": "Vungle"
+  },
+  {
+    "code": "TV_MREC2-3958682",
+    "name": "TV_MREC2",
+    "type": "REC",
+    "source": "Vungle"
+  },
+  {
+    "code": "TV_MREC3-0993796",
+    "name": "TV_MREC3",
+    "type": "REC",
+    "source": "Vungle"
+  },
+  {
+    "code": "TV_MREC4-3787729",
+    "name": "TV_MREC4",
+    "type": "REC",
+    "source": "Vungle"
+  },
+  {
+    "code": "TV_MREC5-6442485",
+    "name": "TV_MREC5",
+    "type": "REC",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT1-5172535",
+    "name": "INT1",
+    "type": "Interstitiel",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT2-3028016",
+    "name": "INT2",
+    "type": "Interstitiel",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT3-1198557",
+    "name": "INT3",
+    "type": "Interstitiel",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT4-4088099",
+    "name": "INT4",
+    "type": "Interstitiel",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT5-5928431",
+    "name": "INT5",
+    "type": "Interstitiel",
+    "source": "Vungle"
+  },
+  {
+    "code": "BAR1-9007761",
+    "name": "BAR1",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "BAR2-8386598",
+    "name": "BAR2",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "BAR3-6992927",
+    "name": "BAR3",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "BAR4-1373871",
+    "name": "BAR4",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "BAR5-2857501",
+    "name": "BAR5",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT6-0687921",
+    "name": "BAR6",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT7-7706269",
+    "name": "BAR7",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT8-0946873",
+    "name": "BAR8",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT9-0047984",
+    "name": "BAR9",
+    "type": "Banner",
+    "source": "Vungle"
+  },
+  {
+    "code": "INT10-8737578",
+    "name": "BAR10",
+    "type": "Banner",
+    "source": "Vungle"
+  }
+]

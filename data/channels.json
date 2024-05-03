@@ -1,3 +1,29 @@
 [
-
+  {
+    "id": "tf1",
+    "code": "mytf1",
+    "name": "TF1",
+    "number": 1001,
+    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/tf1.png",
+    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/tf1_fanart.jpg",
+    "site": "https://www.tf1.fr",
+    "categories":["generaliste"],
+    "country": "fr",
+    "programCode": "192",
+    "programType": "telerama",
+    "isAccount": true
+  },
+  {
+    "id": "france-2",
+    "code": "francetv",
+    "name": "France 2",
+    "number": 1002,
+    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/france2.png",
+    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/france2_fanart.jpg",
+    "site": "https://www.france.tv",
+    "categories":["generaliste"],
+    "country": "fr",
+    "programCode": "4",
+    "programType": "telerama"
+  }
 ]

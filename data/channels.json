@@ -24,6 +24,7 @@
     "categories":["generaliste"],
     "country": "fr",
     "programCode": "4",
-    "programType": "telerama"
+    "programType": "telerama",
+    "isRecommend": true
   }
 ]

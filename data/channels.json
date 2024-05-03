@@ -26,5 +26,19 @@
     "programCode": "4",
     "programType": "telerama",
     "isRecommend": true
+  },
+  {
+    "id": "gulli",
+    "code": "gulli",
+    "name": "Gulli",
+    "number": 1018,
+    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/gulli.png",
+    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/gulli_fanart.jpg",
+    "site": "https://www.france.tv",
+    "categories":["family_kids"],
+    "country": "fr",
+    "programCode": "482",
+    "programType": "telerama",
+    "isRecommend": true
   }
 ]

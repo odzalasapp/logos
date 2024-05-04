@@ -7,7 +7,9 @@
     "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/tf1.png",
     "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/tf1_fanart.jpg",
     "site": "https://www.tf1.fr",
-    "categories":["generaliste"],
+    "categories": [
+      "generaliste"
+    ],
     "country": "fr",
     "programCode": "192",
     "programType": "telerama",
@@ -21,7 +23,9 @@
     "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/france2.png",
     "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/france2_fanart.jpg",
     "site": "https://www.france.tv",
-    "categories":["generaliste"],
+    "categories": [
+      "generaliste"
+    ],
     "country": "fr",
     "programCode": "4",
     "programType": "telerama",
@@ -34,8 +38,10 @@
     "number": 1018,
     "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/gulli.png",
     "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/gulli_fanart.jpg",
-    "site": "https://www.france.tv",
-    "categories":["family_kids"],
+    "site": "https://www.gulli.fr",
+    "categories": [
+      "family_kids"
+    ],
     "country": "fr",
     "programCode": "482",
     "programType": "telerama",

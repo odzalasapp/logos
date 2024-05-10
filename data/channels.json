@@ -52,8 +52,8 @@
     "code": "cctv",
     "name": "CCTV-1 综合",
     "number": 6001,
-    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/cctv1.png",
-    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/cctv1.png",
+    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/cn/cctv1.png",
+    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/cn/cctv1.png",
     "categories": [
       "generaliste"
     ],
@@ -64,8 +64,8 @@
     "code": "cctv",
     "name": "CCTV-2 财经",
     "number": 6002,
-    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/cctv2.png",
-    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/fr/cctv2.png",
+    "logo": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/cn/cctv2.png",
+    "cover": "https://raw.githubusercontent.com/odzalasapp/logos/main/channels/cn/cctv2.png",
     "categories": [
       "economie"
     ],
